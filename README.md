@@ -19,8 +19,8 @@ The MovieTweetings dataset consists of ratings on movies that were contained in 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Author:Christian Emiyah
-Email: [christian.emiyah(at)gmail.com](mailto:christian.emiyah@gmail.com)
+Author:Christian Emiyah <br>
+Email: [christian.emiyah(at)gmail.com](mailto:christian.emiyah@gmail.com) <br>
 License: MIT License.
 
 
